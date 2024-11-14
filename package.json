@@ -22,7 +22,9 @@
   "author": "Ravi Reddy",
   "license": "MIT",
   "dependencies": {
-    "azure-sb": "^0.10.6"
+    "@azure/event-hubs": "^5.12.2",
+    "@azure/identity": "^4.5.0",
+    "@azure/service-bus": "^7.9.5"
   },
   "repository": {
     "type": "git",
